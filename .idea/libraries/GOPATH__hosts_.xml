@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;hosts&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/zzwind.com" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/github.com" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/sourcegraph.com" />
+      <root url="file://$PROJECT_DIR$/../../GoProjects/src/zzwind.com" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
